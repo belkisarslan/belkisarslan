@@ -1,4 +1,4 @@
-### Merhaba! Ben Belkıs 👋
+## Merhaba! Ben Belkıs 👋
 
 
 - 🌱 2022 Kodluyoruz & Front-End Web Development Bootcamp Öğrencisiyim.

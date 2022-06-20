@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/cm6PpqHfGBuDL51L9l/giphy.gif" align="right" width="400" height="250">
 
 <br>
-<hr>
+
 ### Bana Ulaşabileceğiniz Hesaplarım
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />][Twitter]

@@ -1,10 +1,11 @@
 ## Merhaba! Ben Belkıs 👋
 
+<img src="https://media.giphy.com/media/cm6PpqHfGBuDL51L9l/giphy.gif" align="right" width="400" height="250">
+
 - 🌱 2022 Kodluyoruz & Front-End Web Development Bootcamp Öğrencisiyim.
 - 👩‍💻 React.js öğreniyorum.
 - ✍️ Yazmayı seviyorum ve burada bazen bir şeyler karalıyorum. [hikayebelki](https://hikayebelki.blogspot.com/)
 
-<img src="https://media.giphy.com/media/cm6PpqHfGBuDL51L9l/giphy.gif" align="right" width="400" height="250">
 
 <br>
 

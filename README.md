@@ -8,7 +8,6 @@
 - ✍️ Yazmayı seviyorum ve burada bazen bir şeyler karalıyorum. [hikayebelki](https://hikayebelki.blogspot.com/)
 
 <br>
-<br>
 
 ### Bana Ulaşabileceğiniz Hesaplarım
 
@@ -18,7 +17,6 @@
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/blogger.svg" />][Blogger]
 
 <br>
-<br>
 
 ### Kullandığım Teknolojiler
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="32" width="32">
@@ -27,11 +25,9 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" height="32" width="32">
 
 <br>
-<br>
 
 ![İstatistikler](https://github-readme-stats.vercel.app/api?username=belkisarslan&show_icons=true&theme=radical)
 
-<br>
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belkisarslan&layout=compact)

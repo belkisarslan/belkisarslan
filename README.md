@@ -1,6 +1,5 @@
 ## Merhaba! Ben Belkıs 👋
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="400" height="250">
+<img src="https://media.giphy.com/media/cm6PpqHfGBuDL51L9l/giphy.gif" align="right" width="400" height="250">
 
 
 - 🌱 2022 Kodluyoruz & Front-End Web Development Bootcamp Öğrencisiyim.
@@ -17,12 +16,13 @@
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/blogger.svg" />][Blogger]
 
 <br>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="400" height="250">
 
 ### Kullandığım Teknolojiler
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="32" width="32">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="32" width="32">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="32" width="32">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" height="32" width="32">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="25" width="25">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="25" width="25">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="25" width="25">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" height="25" width="25">
 
 <br>
 

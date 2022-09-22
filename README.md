@@ -15,6 +15,8 @@
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" />][Instagram]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][LinkedIn]
 [<img height="32" width="32" style="color:orange" src="https://unpkg.com/simple-icons@v7/icons/blogger.svg" />][Blogger]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/hackerrank.svg" />][HackerRank]
+
 
 <br>
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="400" height="250" style="border-radius: 8px">
@@ -34,7 +36,6 @@
 
 <!-- ![İstatistikler](https://github-readme-stats.vercel.app/api?username=belkisarslan&show_icons=true&theme=radical) -->
 
-<hr>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belkisarslan&layout=compact) -->
 
@@ -43,3 +44,4 @@
 [Instagram]: https://www.instagram.com/bugun_ogrendiklerim/?utm_medium=copy_link
 [LinkedIn]: https://www.linkedin.com/in/belkisarslan/
 [Blogger]: https://hikayebelki.blogspot.com/
+[HackerRank]: https://www.hackerrank.com/belkisarslan33

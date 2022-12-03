@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/cm6PpqHfGBuDL51L9l/giphy.gif" align="right" width="400" height="250">
 
 - 🌱 2022 Kodluyoruz & Front-End Web Development Bootcamp Mezunuyum.
-- 👩‍💻 React.js öğreniyorum.
+- 👩‍💻 React.js ve Vue.js ile ilgileniyorum.
 - ✍️ Yazmayı seviyorum ve burada bazen bir şeyler karalıyorum. [hikayebelki](https://hikayebelki.blogspot.com/)
 
 
@@ -27,6 +27,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="32" width="32">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" height="32" width="32">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="32" width="32">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" height="32" width="32">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" height="32" width="32"></p>
 </p>
 

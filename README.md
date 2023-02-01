@@ -1,15 +1,15 @@
-## Merhaba! Ben Belkıs 👋
+## Hello! I'm Belkıs 👋
 
 <img src="https://media.giphy.com/media/cm6PpqHfGBuDL51L9l/giphy.gif" align="right" width="400" height="250">
 
-- 🌱 2022 Kodluyoruz & Front-End Web Development Bootcamp Mezunuyum.
-- 👩‍💻 React.js ve Vue.js ile ilgileniyorum.
-- ✍️ Yazmayı seviyorum ve burada bazen bir şeyler karalıyorum. [hikayebelki](https://hikayebelki.blogspot.com/)
+- 🌱 I am a frontend developer who has rolled up her sleeves to work in a field completely different from the education she received. With the desire to develop and deepen my knowledge on web development, I applied to the Front-End Web Development Bootcamp(2022) organized by Kodluyoruz and was accepted. I learned React.js during bootcamp and graduated successfully.
+- 👩‍💻 I am trying to improve my competence in React.js and Vue.js day by day.
+- ✍️ I love writing stories and I have a blog where I post the stories I write. [hikayebelki](https://hikayebelki.blogspot.com/)
 
 
 <br>
 
-### Bana Ulaşabileceğiniz Hesaplarım
+### My accounts you can reach me
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />][Twitter]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" />][Instagram]
@@ -21,7 +21,7 @@
 <br>
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="400" height="250" style="border-radius: 8px">
 
-### Kullandığım Teknolojiler
+### Technologies I use
 <p><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="32" width="32">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="32" width="32">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="32" width="32">

@@ -4,12 +4,12 @@
 
 - 🌱 I am a frontend developer who has rolled up her sleeves to work in a field completely different from the education she received. With the desire to develop and deepen my knowledge on web development, I applied to the Front-End Web Development Bootcamp(2022) organized by Kodluyoruz and was accepted. I learned React.js during bootcamp and graduated successfully.
 - 👩‍💻 I am trying to improve my competence in React.js and Vue.js day by day.
-- ✍️ I love writing stories and I have a blog where I post the stories I write. [hikayebelki](https://hikayebelki.blogspot.com/)
+- ✍️ I love writing stories and have a story blog. [hikayebelki](https://hikayebelki.blogspot.com/)
 
 
 <br>
 
-### My accounts you can reach me
+### Contact
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />][Twitter]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" />][Instagram]

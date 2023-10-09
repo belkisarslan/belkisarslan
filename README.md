@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/cm6PpqHfGBuDL51L9l/giphy.gif" align="right" width="400" height="250">
 
-- 🌱 I am a frontend developer who has rolled up her sleeves to work in a field completely different from the education she received. With the desire to develop and deepen my knowledge on web development, I applied to the Front-End Web Development Bootcamp(2022) organized by Kodluyoruz and was accepted. I learned React.js during bootcamp and graduated successfully.
+- 🌱 I am a frontend developer. With the desire to develop and deepen my knowledge on web development, I applied to the Front-End Web Development Bootcamp organized by Kodluyoruz and was accepted. I learned React.js during bootcamp and graduated successfully.
 - 👩‍💻 I am trying to improve my competence in React.js and Vue.js day by day.
 - ✍️ I love writing stories and have a story blog. [hikayebelki](https://hikayebelki.blogspot.com/)
 - 🌍 https://belkisarslan.github.io/
